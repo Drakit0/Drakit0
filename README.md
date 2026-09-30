@@ -19,4 +19,4 @@ Background: Mathematical Engineering and Artificial Intelligence (iMAT), Univers
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/pablo-tu%C3%B1%C3%B3n-laguna-ia-math-cryptography-leadership-development-research/)
+[LinkedIn](https://www.linkedin.com/in/pablo-tu%C3%B1%C3%B3n-laguna-ia-math-computer-vision-leadership-robotics-drones/)
