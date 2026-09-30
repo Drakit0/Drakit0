@@ -14,6 +14,8 @@ Background: Mathematical Engineering and Artificial Intelligence (iMAT), Univers
 - [AirTrackPad](https://github.com/Drakit0/AirTrackPad): mouse control with hand gestures from a webcam (MediaPipe, OpenCV and a small gesture classifier).
 - [Tensor-Networks](https://github.com/Drakit0/Tensor-Networks): CNN compression with Tucker and CP decompositions, plus MPS simulation of quantum circuits.
 - [A-Lift](https://github.com/Drakit0/A-Lift): reinforcement learning for a warehouse pick-and-place task (SARSA(λ) with tile coding, Q-learning, DQN).
+- [computer-vision-ii](https://github.com/Drakit0/computer-vision-ii): course projects on transfer learning, YOLO detection, explainability, adversarial attacks and generative models.
+- [nlp-course-labs](https://github.com/Drakit0/nlp-course-labs): NLP labs from n-gram models and word2vec to a transformer written from scratch and fine-tuning.
 
 ## Contact
 
