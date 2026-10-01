@@ -16,6 +16,7 @@ Background: Mathematical Engineering and Artificial Intelligence (iMAT), Univers
 - [A-Lift](https://github.com/Drakit0/A-Lift): reinforcement learning for a warehouse pick-and-place task (SARSA(λ) with tile coding, Q-learning, DQN).
 - [computer-vision-ii](https://github.com/Drakit0/computer-vision-ii): course projects on transfer learning, YOLO detection, explainability, adversarial attacks and generative models.
 - [nlp-course-labs](https://github.com/Drakit0/nlp-course-labs): NLP labs: bigram and naive Bayes models, skip-gram word embeddings, transformer encoder and decoder, fine-tuning.
+- [discrete-math-projects](https://github.com/Drakit0/discrete-math-projects): Discrete Mathematics projects with Jorge Vančo: a number theory toolkit, an RSA chat and a Madrid route planner on a graph library written from scratch.
 
 ## Contact
 
